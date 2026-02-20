@@ -3,3 +3,6 @@ gunicorn==21.2.0
 google-generativeai==0.5.4
 Pillow==10.3.0
 Werkzeug==3.0.3
+
+Runtime → Python
+Python Version → 3.11
